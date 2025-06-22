@@ -58,3 +58,4 @@ A simple and secure Python-based tool for encrypting and decrypting **text and d
    git clone https://github.com/your-username/cryptography-tool.git
    cd cryptography-tool
 
+![image](https://github.com/user-attachments/assets/fecf41be-eed1-4c45-b201-40f1af9d86f0)
