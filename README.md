@@ -22,6 +22,7 @@ A simple and secure Python-based tool for encrypting and decrypting **text and d
   Utilizes strong symmetric encryption (AES or Fernet). User data and keys are not stored anywhere.
 
 ---
+![image](https://github.com/user-attachments/assets/7833dbd9-cfcf-48bf-bd51-88a769ac398d)
 
 ## 🧠 How It Works
 
